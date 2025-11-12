@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# SwiftPM
+.swiftpm/Repositories/
+# (Keep Package.resolved committed for reproducible builds)
+# !Package.resolved
+
+# Fastlane / Archives
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+*.ipa
+*.dSYM.zip
+
+# Env / secrets
+.env

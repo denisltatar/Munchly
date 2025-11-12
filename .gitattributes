@@ -1,0 +1,2 @@
+# Keep project file conflicts readable
+*.pbxproj -diff
